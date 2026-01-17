@@ -10,7 +10,7 @@ interface TeamProps {
 const defaultTeam = [
   {
     _key: '1',
-    name: 'Arif Khan',
+    name: 'Arif',
     position: 'CEO',
     bio: 'Leading Bestway For Moving with expertise and commitment to providing exceptional moving services across the UAE.',
     image: null,
