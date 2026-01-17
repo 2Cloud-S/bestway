@@ -11,9 +11,9 @@ interface TestimonialsProps {
 const defaultTestimonials = [
   {
     _id: '1',
-    name: 'Sarah Johnson',
+    name: 'Mohammed Al Maktoum',
     position: 'Homeowner',
-    company: 'New York',
+    company: 'Al Ain Residence',
     content: 'Exceptional service from start to finish! The team was professional, careful with our belongings, and made our move stress-free.',
     rating: 5,
     image: null,
@@ -21,17 +21,17 @@ const defaultTestimonials = [
   },
   {
     _id: '2',
-    name: 'Michael Chen',
+    name: 'Abdullah Khalid',
     position: 'Business Owner',
     company: 'Tech Solutions Inc',
     content: 'We needed to relocate our office quickly, and they delivered perfectly. Minimal downtime and everything arrived safely.',
-    rating: 5,
+    rating: 4.5,
     image: null,
     order: 2,
   },
   {
     _id: '3',
-    name: 'Emily Rodriguez',
+    name: 'Khalid Mansour',
     position: 'Real Estate Agent',
     company: 'Elite Properties',
     content: 'I recommend them to all my clients. They consistently provide excellent service and treat every move with care.',
