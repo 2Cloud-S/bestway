@@ -25,7 +25,7 @@ const defaultTestimonials = [
     position: 'Business Owner',
     company: 'Tech Solutions Inc',
     content: 'We needed to relocate our office quickly, and they delivered perfectly. Minimal downtime and everything arrived safely.',
-    rating: 4.5,
+    rating: 5,
     image: null,
     order: 2,
   },
